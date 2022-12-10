@@ -17,11 +17,12 @@ Basically a docker image and a bash script. It runs a minecraft forge server ins
     - --build or -b             : builds the docker image.
 
 ### Ok. But how do I use this?
-- `git clone https://github.com/pCIKwPk78WIj/MCForgeDocker.git`
+- Clone this repo: `git clone https://github.com/pCIKwPk78WIj/MCForgeDocker.git`
 - `cd MCForgeDocker`
-- `/bin/bash manage_server.sh --build`
-- Optionally `/bin/bash manager_server.sh --update <path to newer version of forge JAR file>`
-- `/bin/bash manage_server.sh --run`
+- Build the docker image: `/bin/bash manage_server.sh --build`
+- Optionally upgrade the forge" `/bin/bash manage_server.sh --update <path to newer version of forge JAR file>`
+- Run the server: `/bin/bash manage_server.sh --run`
+- If you want to backup you important files: `/bin/bash manage_server.sh --save`
 
 ## What are the "important files"?
 - server.properties 
