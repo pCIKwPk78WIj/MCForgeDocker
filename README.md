@@ -4,7 +4,7 @@
 Basically a docker image and a bash script. It runs a minecraft forge server inside a minimal docker container.
 
 ## What do I need to run this?
-- I tested in Debian 11 (Bullseye), but should work in bascially any GNU/Linux distribution.
+- I tested on Debian 11 (Bullseye), but should work in bascially any GNU/Linux distribution.
 - You will need the docker service running, and preferably your user added to the `docker` group,
 - OpenJDK/Java on the host OS to run the `upgrade` function, the `java` executable shall be in your path.
 
