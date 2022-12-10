@@ -32,12 +32,12 @@ Basically a docker image and a bash script. It runs a minecraft forge server ins
 - the mods directory
 
 ## Why?
-\>be me\n
-\>want to run a minecraft forge server self-hosted to play with friends\n
-\>find nothing similar due to alarmly bad searching skills and smooth brain\n
-\>write this script to manage the minecraft forge server running in a __minimalist__ docker\n
-\>upload it to github and forget about it forever\n
-\>spend at least 45 mins writing this README.md which will read nobody\n
+* be me\n
+* want to run a minecraft forge server self-hosted to play with friends
+* find nothing similar due to alarmly bad searching skills and smooth brain
+* write this script to manage the minecraft forge server running in a __minimalist__ docker
+* upload it to github and forget about it forever
+* spend at least 45 mins writing this README.md which will read nobody
 
 ## There is a feature which I miss ;_;
 Then feel to contribute and extend the script.
