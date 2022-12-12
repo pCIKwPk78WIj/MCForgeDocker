@@ -32,6 +32,9 @@ Basically a docker image and a bash script. It runs a minecraft forge server ins
 - your world directory (default name: world)
 - the mods directory
 
+## What is the VANILLA folder?
+It's containing the docker image to run a vanilla minecraft server inside a minimalist container.
+
 ## Why?
 * be me
 * want to run a minecraft forge server self-hosted to play with friends
