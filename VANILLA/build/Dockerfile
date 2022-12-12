@@ -1,3 +1,5 @@
+#To build this image: docker build . -t dockers:mc_vanilla
+
 FROM debian:11
 
 ENV LC_CTYPE C.UTF-8
